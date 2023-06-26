@@ -12,4 +12,3 @@ My name is Maurice, i like Monoliths and coding. My technical interests are Game
  <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
  <br/>
-#
