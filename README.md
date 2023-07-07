@@ -2,7 +2,7 @@
 My name is Maurice, i like Monoliths and coding. My technical interests are Game Modding and Fullstack Webapps
 
 ---
-### 💻 Tech Stack
+### 💻 Current Tech Stack
  <img align="left" alt="react" width="30px" style="pointer-events: none; padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
  <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
  <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
