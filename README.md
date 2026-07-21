@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Maurice, i like Monoliths and coding. My technical interests are Fullstack Webapps and Game Modding.
+My name is Maurice, I like monoliths and coding. My technical interests are Fullstack Web Apps and Game Modding.
 
 ---
 ### 💻 Current Tech Stack
